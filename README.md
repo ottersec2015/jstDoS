@@ -33,7 +33,7 @@ py jstDoS.py
 Put victim server
 ```
 
-https://juanbelza.is-a-virg.in/5n8ikT098
+![image](https://user-images.githubusercontent.com/84898161/152612943-e6e1d76a-4577-4bbf-b13d-69588a900626.png)
 
 ```console
 Wait
